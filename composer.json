@@ -1,16 +1,16 @@
 {
-    "name": "TituGeorge/PubMed",
-    "description": "API Wrapper to fetch PubMed article(s) with id(s) or by author name(s)",
-    "type": "library",
-    "homepage": "http://titugeorge.com",
-    "license": "MIT",
-    "keywords": ["pubmed", "article", "ncbi", "laravel"],
-    "authors": [
-      {
-        "name": "titugeorge",
-        "email": "titugeorge@gmail.com"
-      }
-    ],
+  "name": "titugeorge/pubmed",
+  "description": "API Wrapper to fetch PubMed article(s) with id(s) or by author name(s)",
+  "type": "library",
+  "homepage": "http://titugeorge.com",
+  "license": "MIT",
+  "keywords": ["pubmed", "article", "ncbi", "laravel"],
+  "authors": [
+    {
+      "name": "titugeorge",
+      "email": "titugeorge@gmail.com"
+    }
+  ],
   "minimum-stability": "stable",
   "require": {
     "php": ">=5.3.0",
